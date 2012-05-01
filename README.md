@@ -1,7 +1,7 @@
 Hello world PHP extension written by this tutorial http://www.tuxradar.com/practicalphp/20/0/0
 
 
-Do the following to use extension:
+Do the following to use this extension:
 ```
 phpize
 ./configure --enable-hello
