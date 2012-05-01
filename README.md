@@ -2,9 +2,9 @@ Hello world PHP extension written by this tutorial http://www.tuxradar.com/pract
 
 
 Do the following to use extension:
-`phpize`
-`./configure --enable-hello`
-`make`
+`phpize
+./configure --enable-hello
+make`
 
 
 It will create hello.so extension in the modules directory.
